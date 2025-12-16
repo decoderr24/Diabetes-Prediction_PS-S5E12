@@ -61,8 +61,8 @@ $$FinalPred = w_1 \cdot P_{LGBM} + w_2 \cdot P_{XGB} + w_3 \cdot P_{CatBoost}$$
 
 | Model | CV Score (AUC) | Public LB |
 | :--- | :--- | :--- |
-| Baseline (Single XGB) | 0.7xxx | 0.6xxx |
-| **Ensemble (Hill Climbing)** | **0.727+** | **0.703+** |
+| Baseline (Single XGB) | 0.703+ | 0.702xxx |
+| **Ensemble (Hill Climbing)** | **0.706** | **0.703+** |
 
 ## Model Comparasion 
 <img width="855" height="509" alt="image" src="https://github.com/user-attachments/assets/e49ffc46-09ec-4454-b15b-3a0d0e8e76cf" />
@@ -74,4 +74,5 @@ $$FinalPred = w_1 \cdot P_{LGBM} + w_2 \cdot P_{XGB} + w_3 \cdot P_{CatBoost}$$
 
 
 *> Note: Scores are approximate based on the latest run.*
+
 
