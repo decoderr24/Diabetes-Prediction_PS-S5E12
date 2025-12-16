@@ -72,6 +72,6 @@ $$FinalPred = w_1 \cdot P_{LGBM} + w_2 \cdot P_{XGB} + w_3 \cdot P_{CatBoost}$$
 
 <img width="1079" height="349" alt="bokeh_plot (4)" src="https://github.com/user-attachments/assets/c3fa6260-d17a-4e3f-9e59-7dec8a9b1c3d" />
 
-<img width="1079" height="349" alt="bokeh_plot (2)" src="https://github.com/user-attachments/assets/f46d6717-bac9-46cc-8191-31a8d05c09fd" />
 
 *> Note: Scores are approximate based on the latest run.*
+
